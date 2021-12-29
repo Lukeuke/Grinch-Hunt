@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Bullet
+  - Enemy
+  - Gift
+  - Penguin
+  - Ladder
+  - Checkpoint
+  - Platform
+  - Ice
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Collidable Objects
+  - Enemy
+  - Destructable
+  - Pengiun
+  - Ladder
+  - CameraBounds
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background01
+    uniqueID: 4266666369
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
